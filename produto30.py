@@ -55,7 +55,7 @@ def gerar_qrcode_pix(chave, nome, cidade, valor=None, descricao=None):
     bio.seek(0)
     return bio, payload
 
-TOKEN = '7822502947:AAGaaozYjf801cYC2M-Ott-FoY3tb4AzEWg'
+TOKEN = '7208398050:AAEUpN7mK6UStxlfGyizedW-i2amVcaQTmE'
 SUPORTE_USERNAME = '@supvipoficial'
 CHAVE_PIX = '5a5dc31f-f8a0-4711-9268-ba923769b518'
 NOME = 'CGCOUSIN'
