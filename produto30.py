@@ -3,7 +3,7 @@ from telegram.ext import Application, CommandHandler, MessageHandler, filters, C
 
 TOKEN = '7208398050:AAEUpN7mK6UStxlfGyizedW-i2amVcaQTmE'
 SUPORTE_USERNAME = '@supvipoficial'
-LINK_PAGAMENTO = 'https://pay.sunize.com.br/gcAcccuV'  # Substitua pelo seu link real
+LINK_PAGAMENTO = 'https://app.pushinpay.com.br/service/pay/9DDBA420-E89F-4374-AA97-05A2039D8350'  # Substitua pelo seu link real
 
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     mensagem = (
